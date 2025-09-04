@@ -34,7 +34,7 @@
 ## 📌 Featured Projects
 - 🔗 [EduBar](#) – Coffee shop onboarding & recipe management app  
 - 🔗 [Employee Tracker](#) – Vacation & feedback system built with Angular  
-- 🔗 [Blockchain Gaming Platform](#) – Front-end for blockchain-based gaming profit system  
+- 🔗 [Blockchain Gaming Platform](https://github.com/TalentifyApp/Profile-Dashboard-MVP-Demo) – Front-end for blockchain-based gaming profit system  
 
 ---
 
